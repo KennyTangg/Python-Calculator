@@ -2,7 +2,7 @@
 
 ## Description
 
-`simple_calculator.py` is a basic Python script that performs simple arithmetic operations: addition, subtraction, multiplication, and division. It prompts the user to select an operation and input two numbers, then displays the result. The script includes error handling for invalid inputs and division by zero.
+`simple_calculator.py` is a basic Python script that performs simple arithmetic operations: addition, subtraction, multiplication, and division. It prompts the user to select an operation and input two numbers, then displays the result. The script includes error handling for invalid inputs and division by zero
 
 ## Features
 
